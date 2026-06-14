@@ -48,13 +48,13 @@ These platforms can drive significant traffic on launch day and have strong SEO 
 ### FutureStack
 - **Tagline**: Discover the future of products & tools
 - **Primary Audience**: Tech enthusiasts, startup founders, early adopters
-- **MAU**: 500K+
+- **MAU**: 1000+ (Growing rapidly - community-driven)
 - **Submission Cost**: Free
 - **Best For**: Tech products, SaaS, developer tools, AI products
 - **Submission Time**: 2-3 days
-- **SEO Authority**: DA 72
+- **SEO Authority**: DA 2
 - **Submission Link**: [https://usefuturestack.com](https://usefuturestack.com)
-- **Tips**: Highlight innovation and future-readiness. Include demo videos. High engagement with tech-savvy audience.
+- **Tips**: Very community-driven platform with high engagement. Growing fast with lots of tools submitted. Early-stage opportunity for visibility. Highly engaged niche audience.
 
 ### Hacker News (Show HN)
 - **Tagline**: Anything that good hackers would find interesting
