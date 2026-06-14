@@ -95,7 +95,7 @@ These platforms can drive significant traffic on launch day and have strong SEO 
 
 These directories provide backlinks and consistent referral traffic with strong domain authority.
 
-| # | Name | Tagline | Primary Audience | MAU | Cost | SEO DA | URL |
+| # | Name | Tagline | Primary Audience | MAU | Cost | DA/DR | URL |
 |---|------|---------|------------------|-----|------|--------|-----|
 | 1 | 10Words | Your product in 10 words | Tech enthusiasts, founders | 50K | Free | 35 | [Link](https://10words.io) |
 | 2 | AllTopStartups | Discover top startups | Young entrepreneurs, investors | 150K | Free | 45 | [Link](https://alltopstartups.com) |
