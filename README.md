@@ -45,6 +45,17 @@ These platforms can drive significant traffic on launch day and have strong SEO 
 - **Submission Link**: [https://producthunt.com/launch](https://producthunt.com/launch)
 - **Tips**: Launch on Tuesday-Thursday 12:01 AM PT. Engage with every comment. Quality matters more than speed.
 
+### FutureStack
+- **Tagline**: Discover the future of products & tools
+- **Primary Audience**: Tech enthusiasts, startup founders, early adopters
+- **MAU**: 500K+
+- **Submission Cost**: Free
+- **Best For**: Tech products, SaaS, developer tools, AI products
+- **Submission Time**: 2-3 days
+- **SEO Authority**: DA 72
+- **Submission Link**: [https://usefuturestack.com](https://usefuturestack.com)
+- **Tips**: Highlight innovation and future-readiness. Include demo videos. High engagement with tech-savvy audience.
+
 ### Hacker News (Show HN)
 - **Tagline**: Anything that good hackers would find interesting
 - **Primary Audience**: Developers, CTOs, startup founders, engineers
@@ -66,17 +77,6 @@ These platforms can drive significant traffic on launch day and have strong SEO 
 - **SEO Authority**: DA 72
 - **Submission Link**: [https://indiehackers.com/post](https://indiehackers.com/post)
 - **Tips**: Share your story, not just your product. Engage with the community. Transparent metrics attract attention.
-
-### BetaList
-- **Tagline**: Find and promote tomorrow's startups
-- **Primary Audience**: Beta testers, early adopters, venture investors
-- **MAU**: 300K+
-- **Submission Cost**: Free (Featured: $299/month)
-- **Best For**: Beta products, pre-launch startups, MVPs
-- **Submission Time**: 2-3 days
-- **SEO Authority**: DA 68
-- **Submission Link**: [https://betalist.com/startups/new](https://betalist.com/startups/new)
-- **Tips**: Highlight your unique value proposition. Include a working demo. Beta products perform best.
 
 ### Reddit (r/SaaS, r/SideProject, r/Startups)
 - **Tagline**: The front page of the internet
