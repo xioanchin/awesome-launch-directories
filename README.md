@@ -53,7 +53,7 @@ These platforms can drive significant traffic on launch day and have strong SEO 
 - **Best For**: Tech products, SaaS, developer tools, AI products
 - **Submission Time**: 2-3 days
 - **SEO Authority**: DA 2
-- **Submission Link**: [[https://usefuturestack.com](https://www.usefuturestack.com/submit)]
+- **Submission Link**: [https://usefuturestack.com](https://www.usefuturestack.com/submit)
 - **Tips**: Very community-driven platform with high engagement. Growing fast with lots of tools submitted. Early-stage opportunity for visibility. Highly engaged niche audience.
 
 ### Hacker News (Show HN)
