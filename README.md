@@ -1,6 +1,6 @@
-# Awesome Launch Directories 🚀
+# Awesome Launch Platforms 🚀
 
-> A curated list of 100+ directories and platforms to launch and promote your startup, SaaS, or side project.
+> A curated list of 100+ platforms to launch and promote your startup, SaaS, or side project.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,8 +9,8 @@
 
 - [Overview](#overview)
 - [Tier 1: High-Impact Launch Platforms](#tier-1-high-impact-launch-platforms)
-- [Tier 2: Startup Directories](#tier-2-startup-directories)
-- [Tier 3: AI & Tool Directories](#tier-3-ai--tool-directories)
+- [Tier 2: Startup Platforms](#tier-2-startup-platforms)
+- [Tier 3: AI & Tool Platforms](#tier-3-ai--tool-platforms)
 - [Launch Strategy Guide](#launch-strategy-guide)
 - [Contributing](#contributing)
 - [License](#license)
@@ -19,7 +19,7 @@
 
 ## Overview
 
-This curated list contains 100+ launch directories, each with verified details:
+This curated list contains 100+ launch platforms, each with verified details:
 - **Tagline**: Platform's core mission
 - **Primary Audience**: Who actively uses the platform
 - **MAU**: Monthly Active Users (estimated)
@@ -91,9 +91,9 @@ These platforms can drive significant traffic on launch day and have strong SEO 
 
 ---
 
-## Tier 2: Startup Directories
+## Tier 2: Startup Platforms
 
-These directories provide backlinks and consistent referral traffic with strong domain authority.
+These platforms provide backlinks and consistent referral traffic with strong domain authority.
 
 | # | Name | Tagline | Primary Audience | MAU | Cost | DA/DR | URL |
 |---|------|---------|------------------|-----|------|--------|-----|
@@ -140,7 +140,7 @@ These directories provide backlinks and consistent referral traffic with strong 
 
 ---
 
-## Tier 3: AI & Tool Directories
+## Tier 3: AI & Tool Platforms
 
 Specialized platforms for AI-powered products with growing audiences.
 
@@ -169,7 +169,7 @@ Specialized platforms for AI-powered products with growing audiences.
 
 ---
 
-## Tier 4: Niche & Specialized Directories
+## Tier 4: Niche & Specialized Platforms
 
 Platforms focused on specific product categories or audiences.
 
@@ -204,9 +204,9 @@ Platforms focused on specific product categories or audiences.
 
 ### The 7-Day Timeline
 
-**Day 1-2: Directory Blitz**
-- Submit to 30-50 startup directories for SEO and backlink foundation
-- Focus on Tier 2 directories for maximum coverage
+**Day 1-2: Platform Blitz**
+- Submit to 30-50 startup platforms for SEO and backlink foundation
+- Focus on Tier 2 platforms for maximum coverage
 - Tailor descriptions for each platform
 
 **Day 3: Product Hunt Prep**
@@ -244,17 +244,17 @@ Platforms focused on specific product categories or audiences.
 - **Submission-to-Featured Ratio**: Aim for 70%+ featured rate
 - **Traffic**: Expect 10-50K visits from Tier 1 platforms
 - **Conversion**: Average 2-5% conversion rate for software products
-- **Backlinks**: Expect 50-200 quality backlinks from directory submissions
+- **Backlinks**: Expect 50-200 quality backlinks from platform submissions
 - **Email Signups**: Capture as many emails as possible for future marketing
 
 ---
 
 ## Contributing
 
-Contributions are welcome! If you know of a directory that should be on this list, please:
+Contributions are welcome! If you know of a platform that should be on this list, please:
 
 1. **Fork** the repository
-2. **Add the directory** in alphabetical order with complete details:
+2. **Add the platform** in alphabetical order with complete details:
    - Tagline
    - Primary audience
    - Estimated MAU
@@ -263,9 +263,9 @@ Contributions are welcome! If you know of a directory that should be on this lis
    - Submission URL
 3. **Submit a pull request** with your changes
 
-### Directory Submission Requirements
+### Platform Submission Requirements
 
-- Must be a legitimate, active directory (not a scam)
+- Must be a legitimate, active platform (not a scam)
 - Should have clear submission guidelines
 - Must have an existing audience or user base
 - Should provide backlink value or referral traffic
@@ -282,4 +282,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 
 *Last Updated: 2026-06-14*
 
-Remember: The best launch directory is one where your target audience hangs out. Choose wisely, submit boldly, and engage authentically.
+Remember: The best launch platform is one where your target audience hangs out. Choose wisely, submit boldly, and engage authentically.
